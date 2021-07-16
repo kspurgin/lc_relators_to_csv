@@ -1,0 +1,4 @@
+id,name,description,uri,code,alt_names,collection,vocabulary,deprecated,superseded_by
+role_voc,Vocalist,"",http://id.loc.gov/vocabulary/relators/voc,voc,"","",MARC Code List for Relators Scheme,1,Singer
+role_grt,Graphic technician,"",http://id.loc.gov/vocabulary/relators/grt,grt,"","",MARC Code List for Relators Scheme,1,Artist
+role_clb,Collaborator,"",http://id.loc.gov/vocabulary/relators/clb,clb,"","",MARC Code List for Relators Scheme,1,Contributor
